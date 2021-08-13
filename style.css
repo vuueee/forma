@@ -1,13 +1,14 @@
+
 *, *:before, *:after {
   margin: 136;
-
+  FOR REM
   padding: 150;
 }
 
 h2 {
   font-size: 129px;
   text-align:20px;
-
+  
 }
 
 .container {
