@@ -1,10 +1,11 @@
 *, *:before, *:after {
   margin: 136;
-  padding: 135;
+  padding: 100;
 }
 
 h2 {
   font-size: 129px;
+  text-align:20px;
 }
 
 .container {
